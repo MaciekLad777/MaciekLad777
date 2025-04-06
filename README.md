@@ -19,9 +19,9 @@ Most of my work is focused on turning data into something useful... OR at least 
 
 | Project | What it's about | Tech |
 |--------|------------------|------|
-| [🎧 Spotify Recommender](https://github.com/MaciekLad777/spotify-recommendation-engine) | Suggests tracks balancing familiarity and novelty. Includes feature-based filtering and personalized ranking. | Python, Pandas, Scikit-learn |
-| [🏠 Real Estate (Warsaw)](https://github.com/MaciekLad777/warsaw-real-estate-analysis) | Predicts housing prices with interpretable SHAP insights. Helps understand key price drivers. | Python, XGBoost, SHAP |
-| [📈 Stock Prediction](https://github.com/MaciekLad777/stock-price-prediction) | Forecasts BTC price using ML. MAE ~2%. Includes basic feature selection and model tracking. | Python, TensorFlow, Keras |
+| [🎧 Spotify Recommender](https://github.com/MaciekLad777/Spotify_Recommendation_Engine) | Suggests tracks balancing familiarity and novelty. Includes feature-based filtering and personalized ranking. | Python, Pandas, Scikit-learn |
+| [🏠 Real Estate (Warsaw)](https://github.com/MaciekLad777/Warsaw-Real-Estate-Analysis-and-Price-Prediction) | Predicts housing prices with interpretable SHAP insights. Helps understand key price drivers. | Python, XGBoost, SHAP |
+| [📈 Stock Prediction](https://github.com/MaciekLad777/Multivariate_BTC_price_prediction) | Forecasts BTC price using ML. MAE ~2%. Includes basic feature selection and model tracking. | Python, TensorFlow, Keras |
 
 ---
 
@@ -29,8 +29,8 @@ Most of my work is focused on turning data into something useful... OR at least 
 
 | Project | What's coming | Tech |
 |--------|---------------|------|
-| [🌍 Tourism SQL Project](https://github.com/MaciekLad777/tourism-sql-project) | Full SQL-based analysis of tourism vs. economy. Clean views, optimized queries, and insights. Power BI dashboard in progress. | Oracle SQL, Power BI |
-| [🛡️ Fraud Detection Pipeline](https://github.com/MaciekLad777/fraud-detection) | Hierarchical ML pipeline (anomaly → confirmation → supervised). SHAP + dashboard in progress. | Python, SHAP, XGBoost, Power BI |
+| [🌍 Tourism SQL Project](https://github.com/MaciekLad777/World_Tourism_analysis_and_dashboard) | Full SQL-based analysis of tourism vs. economy. Clean views, optimized queries, and insights. Power BI dashboard in progress. | Oracle SQL, Power BI |
+| [🛡️ Fraud Detection Pipeline](https://github.com/MaciekLad777/Fraud_detection) | Hierarchical ML pipeline (anomaly → confirmation → supervised). SHAP + dashboard in progress. | Python, SHAP, XGBoost, Power BI |
 
 ---
 
@@ -54,6 +54,6 @@ Most of my work is focused on turning data into something useful... OR at least 
 
 ## 📬 Contact
 
-- [LinkedIn](https://linkedin.com/in/your-linkedin)  
+- [LinkedIn](www.linkedin.com/in/maciek-ładno-ba8664242)  
 
 ---
