@@ -29,8 +29,8 @@ Most of my work is focused on turning data into something useful... OR at least 
 
 | Project | What's coming | Tech |
 |--------|---------------|------|
-| [🌍 Tourism SQL Project](https://github.com/MaciekLad777/World_Tourism_analysis_and_dashboard) | Full SQL-based analysis of tourism vs. economy. Clean views, optimized queries, and insights. Power BI dashboard in progress. | Oracle SQL, Power BI |
-| [🛡️ Fraud Detection Pipeline](https://github.com/MaciekLad777/Fraud_detection) | Hierarchical ML pipeline (anomaly → confirmation → supervised). SHAP + dashboard in progress. | Python, SHAP, XGBoost, Power BI |
+| [🌍 Tourism SQL Project](https://github.com/MaciekLad777/World_Tourism_analysis_and_dashboard) | Full SQL-based analysis of tourism vs. economy and weather. Clean views, optimized queries, and insights. Power BI dashboard in progress. | Oracle SQL, Power BI |
+| [🛡️ Fraud Detection Pipeline](https://github.com/MaciekLad777/Fraud_detection) | Hierarchical ML pipeline (anomaly → confirmation → supervised). SHAP + report in progress. | Python, SHAP, Power BI |
 
 ---
 
