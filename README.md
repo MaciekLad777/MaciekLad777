@@ -54,6 +54,6 @@ Most of my work is focused on turning data into something useful... OR at least 
 
 ## 📬 Contact
 
-- [LinkedIn](www.linkedin.com/in/maciekladno)  
+- [LinkedIn]([www.linkedin.com/in/maciekladno](https://www.linkedin.com/in/maciekladno))  
 
 ---
